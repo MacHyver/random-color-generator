@@ -1,0 +1,8 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MacHyver/random-color-generator.git",
+  "author": "MacHyver <mrs_machyver@hotmail.com>",
+  "license": "MIT"
+}
